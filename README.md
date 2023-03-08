@@ -1,17 +1,16 @@
-# The-Series-Analyzer//
-As part of the class exercise we received at bootcamp, we were required to complete the following sections:
-Build a simple program in Bash Scripting that can display
-some statistical properties of a positive numbers series.
-● The program should work with a textual UI
-● The first operation is the input of the series (validate
-at least 3 positive numbers !).
-There are two possibilities:
-a. The series was enetred using external argument
-through the command line.
-b. If there was no external argument, (or wrong
-input ) the user will be asked to input a series.
-● After setting the series, the program will work with a
-menu:
+# The-Series-Analyzer// In a class exercise at bootcamp, our team was required to complete the following sections:
+Build a simple program in Bash Scripting that displays
+The statistical properties of a positive number series.
+The program should have a textual user interface
+The first operation is the input of the series (validation)
+At least three positive numbers are required.
+Two possibilities exist:
+a. Using external arguments, the series was generated
+On the command line.
+b. If there was no external argument, (or if it was incorrect)
+Input) the user will be asked to enter a series of numbers.
+Once the series has been set, the program will work with
+a menu:
 a. Input a Series. (Replace the current series)
 b. Display the series in the order it was entered.
 c. Display the series in sorted order (from low to
@@ -22,7 +21,7 @@ f. Display the Average of the series.
 g. Display the Number of elements in the series.
 h. Display the Sum of the series.
 i. Exit.
-● After choosing a correct option in the menu (validate !)
+Once you have selected the correct option in the menu (validate!)
 a. After input of the menu option, the calculation
 should be done.
 b. The answer should be displayed.
