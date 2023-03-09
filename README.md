@@ -1,4 +1,4 @@
-# The-Series-Analyzer// In a class exercise at bootcamp, our team was required to complete the following sections:
+# The-Series-Analyzer// In a class exercise at AWS Re/Start bootcamp, our team was required to complete the following sections:
 Build a simple program in Bash Scripting that displays
 The statistical properties of a positive number series.
 The program should have a textual user interface
