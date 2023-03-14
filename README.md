@@ -1,8 +1,6 @@
-Detailed information about the assignment: 
 
 A simple program in Bash Scripting that displays the series of positive numbers and their statistical properties.
-
-The following:
+Detailed information about the assignment: 
 
 /There should be a text-based user interface for the program.
 
